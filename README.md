@@ -78,7 +78,4 @@ Let's stay connected on [LinkedIn](https://www.linkedin.com/in/aryan-sharma1603/
 
 ---
 
-© 2023 SoftSell (Fictional Company) | Created for Credex Web Development Internship
-EOF
-
-echo "README.md file has been generated successfully!"
+© 2025 SoftSell  | Created for Credex Web Development Internship
